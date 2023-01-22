@@ -30,7 +30,7 @@ A modern-day health solution used for retrieving and analyzing statistical healt
 <br><br>
 
 ## Project Images
-<img src="assets\Health.jpeg" alt="Circuit Diagram" style="height: 576px; width:1024px;"/>
+<img src="assets\Health.jpeg" alt="Circuit Diagram" style="width: 576px; height:1024px;"/>
 <br><br>
 ## Contributors
 
