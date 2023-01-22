@@ -29,6 +29,9 @@ A modern-day health solution used for retrieving and analyzing statistical healt
 <img src="assets\circuit_Diagram.jpg" alt="Circuit Diagram" style="height: 500px; width:800px;"/>
 <br><br>
 
+## Project Images
+<img src="assets\Health.jpeg" alt="Circuit Diagram" style="height: 500px; width:800px;"/>
+<br><br>
 ## Contributors
 
 - **Aarka Lodh** - Coding
